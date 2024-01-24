@@ -1,0 +1,24 @@
+{
+  "name": "@bharatmishra/sumpackint",
+  "version": "0.0.1",
+  "description": "Internal package for some work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBharatMishra/sumpackint.git"
+  },
+  "keywords": [
+    "sum",
+    "pack",
+    "int"
+  ],
+  "author": "Bharat Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBharatMishra/sumpackint/issues"
+  },
+  "homepage": "https://github.com/TheBharatMishra/sumpackint#readme"
+}
